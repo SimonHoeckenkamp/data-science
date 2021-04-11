@@ -1,0 +1,5 @@
+# ignore the vscode files 
+.vscode/
+
+# ignore checkpoints of jupyter notebooks
+.ipynb_checkpoints/
