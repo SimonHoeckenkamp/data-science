@@ -1,5 +1,11 @@
 # ignore the vscode files 
 .vscode/
 
-# ignore checkpoints of jupyter notebooks
+# ignore checkpoints of jupyter notebooks and untitled files
 .ipynb_checkpoints/
+Untitled*
+
+# Following projects are not finished
+unit_4_homework_4_2_script.ipynb
+Unit_05_Reinforcement_Learning_Value_Iteration_Update_Rule.ipynb
+Unit_05_Homework_05_02-Q-value_iteration.ipynb
